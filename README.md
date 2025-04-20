@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on projects involving computer science, Python, web development, and AI. I’m passionate about coding,
 building interactive applications, and exploring creative solutions in these areas.
 - 📫 How to reach me: andriykovit@gmail.com
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: I'm self-learning.
 
 <!---
 ImAnVit/ImAnVit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
