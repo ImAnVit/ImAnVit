@@ -1,12 +1,28 @@
-# 👋 Hello, I'm Vitaly!
+👋 Hello, I'm Vitaly!
 
-I'm a curious and versatile individual with a love for learning and exploring new horizons. My interests are diverse, spanning **traveling**, **math**, **philosophy**, **history**, **geology**, **astronomy**, **psychology**, **sports**, **community projects**, and **personal development**.
+I’m a curious and versatile person passionate about learning, building, and exploring new ideas across both science and technology. My interests span a wide range of fields, including computer science, AI/ML, mathematics, geology, sports, and community-driven projects.
 
-🌱 I'm currently diving into **computer science**, mastering **C** and **Python**, exploring **web development**, and **AI**. I’m passionate about coding, crafting **interactive applications**, and tackling creative challenges.
+🚀 What I’m Working On
+🌱 Learning and improving my skills in Python, Machine Learning, and Web Development
+💻 Building interactive applications and experimenting with creative tech ideas
+🧠 Exploring problem-solving, algorithms, and modern AI technologies
+📚 Continuously growing through personal development and interdisciplinary learning
+🤝 Open to Collaboration
 
-💞️ I’m eager to collaborate on projects in **Python**, **web development**, **AI**, and other **computer science** areas. Let’s build something innovative together!
+I’m excited to collaborate on projects related to:
 
-📫 Reach out to me at **andriykovit@gmail.com** to connect or discuss ideas!
+Python development
+Artificial Intelligence & Machine Learning
+Open-source and innovative software ideas
+Web applications
+Other areas within computer science
+🌍 Beyond Tech
+
+Outside programming, I enjoy traveling, exploring science and history, learning about the universe, and connecting with communities that inspire growth and creativity.
+
+📫 Contact Me
+
+Feel free to reach out and connect: andriykovit@gmail.com
 
 <!---
 ImAnVit/ImAnVit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
